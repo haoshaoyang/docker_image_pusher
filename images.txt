@@ -1,2 +1,2 @@
-louislam/dockge
+louislam/dockge:nightly
 kasmweb/nginx:1.25.3
