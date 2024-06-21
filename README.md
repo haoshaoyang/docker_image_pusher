@@ -1,3 +1,17 @@
+# 历史示例
+```
+louislam/dockge
+p3terx/aria2-pro
+kasmweb/nginx:1.25.3
+python:alpine3.19
+xhofe/alist
+elestio/picoshare
+anonaddy/anonaddy
+amir20/dozzle
+containrrr/watchtower
+
+```
+
 # Docker Images Pusher
 
 使用Github Action将DockerHub镜像转存到阿里云私有仓库，供国内服务器使用，免费易用
