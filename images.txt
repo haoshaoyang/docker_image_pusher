@@ -7,3 +7,4 @@ elestio/picoshare
 anonaddy/anonaddy
 amir20/dozzle
 containrrr/watchtower
+jxxghp/moviepilot:1.9.7
