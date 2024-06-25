@@ -1,2 +1,2 @@
-jxxghp/moviepilot:1.9.7
+jxxghp/moviepilot:1.9.8-1
 frooodle/s-pdf:0.26.1-fat
